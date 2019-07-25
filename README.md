@@ -1,2 +1,2 @@
-# blah
-blah is a chat app - not ready for production yet
+# Chat-App
+Not ready for production yet
